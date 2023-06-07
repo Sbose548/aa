@@ -1,0 +1,12 @@
+Php page using bootstrap and creating operations such as delete insert and update
+
+
+1. first created a php page took a basic html syntax.
+2. Searched for bootstrap models and attached the packages link using css task
+3.after taking a modal related like a form like modal.
+3. created id of the modal accordingly to use in different ways
+4.and then connected mysql, creating again the php file
+5.created a mysql table in phpadmin and created it with 3 attribute
+6. wrote code for displaying data from mysql table and retrieved data using javascript
+7.similarly did delete, update and insert operations 
+8 code is saved in form of link and google drive
